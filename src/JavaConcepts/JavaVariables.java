@@ -11,6 +11,7 @@ public class JavaVariables {
     double db = 854.4d;
     boolean flag =false;
     
+    
     int add(int a, int b) {  //local variable : variable declared inside a method is called local variables.
         return a+b;
     }
